@@ -17,4 +17,4 @@ jobs:
     steps:
       - uses: Zxnaruto/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WakaTIME_API_Key }}
+          WAKATIME_API_KEY: ${{ secrets.WakaTime_API_Key }}
