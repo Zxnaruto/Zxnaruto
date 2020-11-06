@@ -1,16 +1,35 @@
-### Hi there 👋
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐&nbsp;Hello, Welcome to zCoder's github page!!!&nbsp;⭐
+<hr/>
 
-<!--
-**Zxnaruto/Zxnaruto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lazy boy💤 , I want to do a lot. Mainly good at Java development，I want to be my ideal programmer！！！😁 
 
-Here are some ideas to get you started:
+#### Tech stack 🚀
+* Java
+* Linux
+* Spring/Spring MVC/Spring Boot/Spring Cloud
+* MySql/Postgres/Mybatis
+* MongoDB/Redis
+* RabbitMQ/Memcached
+* Nginx
+* Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Learning 🎯
+ * react
+ * design patterns
+ * algorithm
+ * principle
+
+#### My Open Source Stats 👀
+![zCoder's github stats](https://github-readme-stats.vercel.app/api?username=Zxnaruto&theme=algolia&show_icons=true) 
+
+#### Weekly development data ⚡
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#### My blog 🌱
+&nbsp;&nbsp;&nbsp;&nbsp;[zCoder's blog](https://zxnaruto.github.io/zxblog.github.io/)
+
+#### Contact me 📫
+1. zxnaruto1010@163.com
+2. zhaixin1010@gmail.com                                                          
+<hr/>
