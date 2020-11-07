@@ -25,7 +25,11 @@
 #### ⚡ Weekly development data 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   3 hrs 3 mins    ███████████░░░░░░░░░░░░░░   44.09 % 
+Java         2 hrs 25 mins   ████████▓░░░░░░░░░░░░░░░░   35.08 % 
+JSON         36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+XML          27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Markdown     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 <!--END_SECTION:waka-->
 
