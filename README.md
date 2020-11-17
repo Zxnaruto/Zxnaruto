@@ -14,7 +14,7 @@
 * Docker
 
 #### 🎯 Learning 
- * react
+ * react&Vue
  * design patterns
  * algorithm
  * principle
