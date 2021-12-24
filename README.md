@@ -25,9 +25,9 @@
 #### ⚡ Weekly development data 
 <!--START_SECTION:waka-->
 ```text
-Java   7 hrs 41 mins   ████████████████████▒░░░░   81.16 % 
-Text   1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.23 % 
-XML    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Java   7 hrs 15 mins   ████████████████████░░░░░   80.27 % 
+Text   1 hr 37 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.04 % 
+XML    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 
