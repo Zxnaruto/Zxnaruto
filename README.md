@@ -25,8 +25,7 @@
 #### ⚡ Weekly development data 
 <!--START_SECTION:waka-->
 ```text
-Java       16 mins         ███████████████████████░░   91.71 % 
-Markdown   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
